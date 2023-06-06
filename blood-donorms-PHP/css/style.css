@@ -1,0 +1,8 @@
+body{
+    background-image: url(umm.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100%;
+    width: 100%;
+    opacity: 100%;
+}
